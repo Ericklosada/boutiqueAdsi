@@ -1,3 +1,7 @@
 body{
     background-color: rgb(128, 50, 202);
 }
+nav{
+    font-size: 1.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
